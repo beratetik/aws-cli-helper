@@ -1,5 +1,5 @@
 # AWS CLI Helper
-- Contains bash commands in order to ease AWS CLI ([S3](https://aws.amazon.com/s3) and [CloudFront](https://aws.amazon.com/cloudfront))
+- Contains bash commands in order to ease AWS CLI (It has only [S3](https://aws.amazon.com/s3) and [CloudFront](https://aws.amazon.com/cloudfront) for now)
 
 ## Table of Contens
  - [Creating Bucket](#creating-bucket)
