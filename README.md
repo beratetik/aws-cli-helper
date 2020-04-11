@@ -1,0 +1,2 @@
+# beratetik
+AWS CLI Helper
